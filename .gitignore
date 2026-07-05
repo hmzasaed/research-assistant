@@ -1,0 +1,11 @@
+# Secrets & Local Configurations
+.env
+.env.*
+
+# Python Artifacts
+__pycache__/
+*.pyc
+.venv/
+
+# Streamlit local history
+.streamlit/

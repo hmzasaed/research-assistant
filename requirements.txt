@@ -1,0 +1,91 @@
+# ===========================
+# LangChain Core (LCEL)
+# ===========================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# ===========================
+# OpenAI
+# ===========================
+openai
+tiktoken
+
+# ===========================
+# Tavily Search
+# ===========================
+tavily-python
+
+# ===========================
+# Web Scraping
+# ===========================
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# ===========================
+# Environment Variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Async HTTP
+# ===========================
+httpx
+aiohttp
+
+# ===========================
+# Data Validation
+# ===========================
+pydantic
+
+# ===========================
+# Logging & Utilities
+# ===========================
+rich
+colorama
+tenacity
+
+# ===========================
+# FastAPI (Optional Backend)
+# ===========================
+fastapi
+uvicorn
+
+# ===========================
+# JSON Handling
+# ===========================
+orjson
+
+# ===========================
+# Testing
+# ===========================
+pytest
+
+# ===========================
+# Type Checking
+# ===========================
+typing_extensions
+
+# ===========================
+# Optional Notebook Support
+# ===========================
+jupyter
+
+# ===========================
+# Optional Monitoring
+# ===========================
+langsmith
+
+# ===========================
+# Parsing
+# ===========================
+jsonschema
+
+# ===========================
+# Miscellaneous
+# ===========================
+python-multipart
