@@ -11,7 +11,7 @@ An enterprise-grade, autonomous multi-agent research platform designed to search
 ## 🚀 Live Demo
 
 Experience the live application hosted completely free on Streamlit Community Cloud:
-🔗 **[Live App Link]([https://share.streamlit.io/](https://research-assistant-5baxfflizugcnpcs3lqhx8.streamlit.app/))** *(Replace with your actual Streamlit link once deployed!)*
+🔗 **[[https://share.streamlit.io/](https://research-assistant-5baxfflizugcnpcs3lqhx8.streamlit.app/]([https://share.streamlit.io/](https://research-assistant-5baxfflizugcnpcs3lqhx8.streamlit.app/))** *(Replace with your actual Streamlit link once deployed!)*
 
 ---
 
