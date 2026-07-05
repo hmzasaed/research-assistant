@@ -1,6 +1,6 @@
 # 🔬 Multi-Agent Research Assistant
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://research-assistant-5baxfflizugcnpcs3lqhx8.streamlit.app/)
 [![GitHub License](https://img.shields.io/github/license/hmzasaed/research-assistant?color=blue)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
@@ -11,7 +11,7 @@ An enterprise-grade, autonomous multi-agent research platform designed to search
 ## 🚀 Live Demo
 
 Experience the live application hosted completely free on Streamlit Community Cloud:
-🔗 **[Link]([https://share.streamlit.io/](https://research-assistant-5baxfflizugcnpcs3lqhx8.streamlit.app/))** *(Replace with your actual Streamlit link once deployed!)*
+🔗 **[Live App Link](https://research-assistant-5baxfflizugcnpcs3lqhx8.streamlit.app/)**
 
 ---
 
